@@ -1,0 +1,5 @@
+﻿System Volume Information/
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
