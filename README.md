@@ -14,9 +14,15 @@ Schwerpunkt:
 
 ---
 
-## Inhalt
+## Hinweis zur Erstellung (KI)
 
-Dieses Repository enthält nur:
+Dieses Repository (README und Skript) wurde vollständig **KI-gestützt** erstellt und iterativ angepasst – im **VS Code Agent Mode** mit **ChatGPT** als Agent/Modell. Bitte prüfe Änderungen vor dem Einsatz und nutze das Skript auf eigenes Risiko.
+
+---
+
+## Repository-Inhalt
+
+Dieses Repository enthält:
 - `Win11-Duet3-MasterTune.ps1` – All-in-one: Debloat + Cleanup + Tune + optional Autostart
 
 ---
