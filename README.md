@@ -108,4 +108,4 @@ Standard-Log:
 
 ## Lizenz
 
-Wenn du eine Lizenz verwenden willst: z. B. MIT (noch nicht gesetzt).
+MIT — siehe `LICENSE`.
